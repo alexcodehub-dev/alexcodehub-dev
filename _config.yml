@@ -1,0 +1,8 @@
+title: Loyalty Pass
+description: Articles on travel loyalty programs.
+theme: minima
+# The workflow builds post URLs from this pattern: keep it in sync with Build Pages Post.
+permalink: /:year/:month/:day/:title:output_ext
+timezone: UTC
+# For a project repo (site at https://<owner>.github.io/<repo>/), set baseurl: /<repo>
+baseurl: ""
